@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aechaethei.thomasdobber.nl/sitemap.xml
